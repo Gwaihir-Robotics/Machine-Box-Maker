@@ -1,6 +1,6 @@
 # Machine-Box-Maker
 
-Checkout [SPEC.MD](/.SPEC.MD)
+Checkout [SPEC.MD](/SPEC.MD)
 
 General idea is that it should be easy to design and output BOMs for machinery cabinets to be laser cut by the likes of SendCutSend and OshCut. 
 
